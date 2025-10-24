@@ -9,7 +9,7 @@ This repository will contain exercises and projects for **Procedural Programming
 
 ## About Me
 **Monica Duarte** | CS + AI student at QMUL  
-🔭 Exploring Machine Learning & Data Science  
+🔭 Exploring Deep Learning & Machine Learning  
 🌐 LinkedIn: [monicaduarte.com](https://monicaduarte.com)  
 🐙 GitHub: [monicaduarteai](https://github.com/monicaduarteai)
 
